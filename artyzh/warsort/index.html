@@ -1,0 +1,322 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Картотека битв 2.3</title>
+		<link rel="stylesheet" href="../style.css">
+    </head>
+    <body style='margin: 0'>
+		<div class='heading'>
+			<div>
+				<img src="logo.png" width="90" height="90">
+			</div>
+			<div id='header'>
+				<p>Artyzh Studio</p>
+			</div>
+			<div>
+			</div>
+		</div>
+        <h1>Картотека битв 2.3</h1>
+        <form name="choice">
+			<table bgcolor='ffffd0'>
+				<tr><th>Выберите критерии отбора:</th><td></td><th>И их значения:</th></tr>
+				<tr>
+					<td>
+            			<select name="criter1">
+							<option value="" selected disabled></option>
+							<option value="title">Название битвы</option>
+							<option value="date">Дата</option>
+                			<option value="place">Место</option>
+                			<option value="enemy1">Первый противник</option>
+                			<option value="enemy2">Второй противник</option>
+                			<option value="winer">Победитель</option>
+                			<option value="looser">Проигравший</option>
+                			<option value="mainCharact1">Первый полководец</option>
+                			<option value="mainCharact2">Второй полководец</option>
+                			<option value="winFact1">Положительный фактор у первой стороны..........</option>
+                			<option value="winFact2">Положительный фактор у второй стороны</option>
+                			<option value="looseFact1">Отрицательный фактор у первой стороны</option>
+                			<option value="looseFact2">Отрицательный фактор у второй стороны</option>
+            			</select>
+					</td>
+					<td></td>
+					<td>
+						<input id="val1" type="text" size="49">
+					</td>
+				</tr>
+				<tr>
+					<td>
+            			<select name="criter2">
+							<option value="" selected disabled></option>
+							<option value="title">Название битвы</option>
+							<option value="date">Дата</option>
+                			<option value="place">Место</option>
+                			<option value="enemy1">Первый противник</option>
+                			<option value="enemy2">Второй противник</option>
+                			<option value="winer">Победитель</option>
+                			<option value="looser">Проигравший</option>
+                			<option value="mainCharact1">Первый полководец</option>
+                			<option value="mainCharact2">Второй полководец</option>
+                			<option value="winFact1">Положительный фактор у первой стороны..........</option>
+                			<option value="winFact2">Положительный фактор у второй стороны</option>
+                			<option value="looseFact1">Отрицательный фактор у первой стороны</option>
+                			<option value="looseFact2">Отрицательный фактор у второй стороны</option>
+            			</select>
+					</td>
+					<td></td>
+					<td>
+						<input id="val2" type="text" size="49">
+					</td>
+				</tr>
+				<tr>
+					<td>
+            			<select name="criter3">
+							<option value="" selected disabled></option>
+							<option value="title">Название битвы</option>
+							<option value="date">Дата</option>
+                			<option value="place">Место</option>
+                			<option value="enemy1">Первый противник</option>
+                			<option value="enemy2">Второй противник</option>
+                			<option value="winer">Победитель</option>
+                			<option value="looser">Проигравший</option>
+                			<option value="mainCharact1">Первый полководец</option>
+                			<option value="mainCharact2">Второй полководец</option>
+                			<option value="winFact1">Положительный фактор у первой стороны..........</option>
+                			<option value="winFact2">Положительный фактор у второй стороны</option>
+                			<option value="looseFact1">Отрицательный фактор у первой стороны</option>
+                			<option value="looseFact2">Отрицательный фактор у второй стороны</option>
+            			</select>
+					</td>
+					<td></td>
+					<td>
+						<input id="val3" type="text" size="49">
+					</td>
+				</tr>
+				<tr>
+					<td>
+            			<select name="criter4">
+							<option value="" selected disabled></option>
+                			<option value="vek">Век</option>
+                			<option value="numPeople1">Число солдат к началу битвы у первой стороны</option>
+                			<option value="numPeople2">Число солдат к началу битвы у второй стороны</option>
+                			<option value="deadPeople1">Убито солдат у первой стороны</option>
+                			<option value="deadPeople2">Убито солдат у второй стороны</option>
+                			<option value="hurtPeople1">Ранено солдат у первой стороны</option>
+                			<option value="hurtPeople2">Ранено солдат у второй стороны</option>
+                			<option value="lostPeople1">Попало в плен солдат у первой стороны</option>
+                			<option value="lostPeople2">Попало в плен солдат у второй стороны</option>
+                			<option value="numTech1">Число техники к началу битвы у первой стороны</option>
+                			<option value="numTech2">Число техники к началу битвы у второй стороны</option>
+                			<option value="lostTech1">Потеряно техники у первой стороны</option>
+                			<option value="lostTech2">Потеряно техники у второй стороны</option>
+            			</select>
+					</td>
+					<td>от </td>
+					<td>
+						<input id="val4" type="number"> до <input id='val44' type='number'>
+					</td>
+				</tr>
+				<tr>
+					<td>
+            			<select name="criter5">
+							<option value="" selected disabled></option>
+                			<option value="vek">Век</option>
+                			<option value="numPeople1">Число солдат к началу битвы у первой стороны</option>
+                			<option value="numPeople2">Число солдат к началу битвы у второй стороны</option>
+                			<option value="deadPeople1">Убито солдат у первой стороны</option>
+                			<option value="deadPeople2">Убито солдат у второй стороны</option>
+                			<option value="hurtPeople1">Ранено солдат у первой стороны</option>
+                			<option value="hurtPeople2">Ранено солдат у второй стороны</option>
+                			<option value="lostPeople1">Попало в плен солдат у первой стороны</option>
+                			<option value="lostPeople2">Попало в плен солдат у второй стороны</option>
+                			<option value="numTech1">Число техники к началу битвы у первой стороны</option>
+                			<option value="numTech2">Число техники к началу битвы у второй стороны</option>
+                			<option value="lostTech1">Потеряно техники у первой стороны</option>
+                			<option value="lostTech2">Потеряно техники у второй стороны</option>
+            			</select>
+					</td>
+					<td>от </td>
+					<td>
+						<input id="val5" type="number"> до <input id='val55' type='number'>
+					</td>
+				</tr>
+				<tr>
+					<td><a href='result.html'><button onclick="find()">Enter</button></a></td>
+				</tr>
+			</table>
+        </form>
+		<details>
+			<summary><h3 style="display: inline;">Инструкция</h3></summary>
+			<li>Выберите один или несколько критериев отбора битв</li>
+			<li>Впишите напротив выбранных критериев значение или его часть</li>
+			<li>Обратите внимание, что для таких критериев, как "Фактор победы"/"Фактор поражения",
+				<br>
+				есть особые значения: "Подготовка", "Численность", "Удобство", "Мораль", "Внешнее воздействие", "Тактика"</li>
+			<li>Нажмите клавишу "Enter" или кнопку с тем же именем</li>
+		</details>
+        <script>
+			// @ts-nocheck
+            //Список объектов битв(БД)
+            var a = [];              
+			//Получаем базу данных
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'files/base.json');
+			xhr.responseType = 'JSON';
+			xhr.send();
+			xhr.onload = function() {
+				a = JSON.parse(xhr.responseText);
+			};
+			xhr.onerror = function() {
+				alert('Невозможно получить доступ к базе данных ' + xhr.statusText);
+			};
+            //Список подходящих битв
+            var ex = [];
+            var pr = "";
+            //Список критериев
+            var print = ["Название битвы", "Место", "Дата", "Век", "Первый противник",
+                         "Второй противник", "Победитель", "Проигравший", "Первый полководец",
+                         "Второй полководец", "Число солдат к началу битвы у первой стороны",
+                         "Число солдат к началу битвы у второй стороны", "Убито солдат у первой стороны",
+                         "Убито солдат у второй стороны", "Ранено солдат у первой стороны",
+                         "Ранено солдат у второй стороны", "Попало в плен солдат у первой стороны",
+                         "Попало в плен солдат у второй стороны", "Число техники к началу битвы у первой стороны",
+                         "Число техники к началу битвы у второй стороны", "Потеряно техники у первой стороны",
+                         "Потеряно техники у второй стороны", "Положительный фактор у первой стороны",
+                         "Положительный фактор у второй стороны", "Отрицательный фактор у первой стороны",
+                         "Отрицательный фактор у второй стороны"];
+			var tab = "";
+            //*нажатие кнопки*
+            function find(){
+				var inn = true
+                //Выбранный параметр ...
+                var crit1 = String(document.forms.choice.elements.criter1.value);
+                //... и его значение
+                var val1 = document.getElementById("val1").value.toLowerCase();
+				//Выбранный параметр ...
+                var crit2 = String(document.forms.choice.elements.criter2.value);
+                //... и его значение
+                var val2 = document.getElementById("val2").value.toLowerCase();
+				//Выбранный параметр ...
+                var crit3 = String(document.forms.choice.elements.criter3.value);
+                //... и его значение
+                var val3 = document.getElementById("val3").value.toLowerCase();
+				//Выбранный параметр ...
+                var crit4 = String(document.forms.choice.elements.criter4.value);
+                //... и его значение
+                var val4 = Number(document.getElementById("val4").value);
+				var val44 = Number(document.getElementById("val44").value);
+				//Выбранный параметр ...
+                var crit5 = String(document.forms.choice.elements.criter5.value);
+                //... и его значение
+                var val5 = Number(document.getElementById("val5").value);
+				var val55 = Number(document.getElementById("val55").value);
+				//Массив критериев
+				var crits = [crit1, crit2, crit3, crit4, crit5];
+				//массив значений
+				var vals = [val1, val2, val3];
+                //В цикле ищем совпадение значений параметров
+                for (var i = 0; i < a.length; i++){
+					inn = true;
+					for (var j = 0; j < 3; j++){
+						if (crits[j].length > 0){
+							//*если (в строке значения параметра битвы есть строка значения пользователя)
+							if (!(a[i][crits[j]].toLowerCase().indexOf(vals[j]) + 1)){
+								inn = false;
+								break;
+							};
+						};
+					}
+					if (inn){
+						ex.push(i);
+					};
+                };
+				for (var i = 0; i < ex.length; i++){
+					inn = true;
+					if (crit4.length > 0){
+						if (val44){
+							if (crit4 === "numPeople1" || crit4 === "numPeople2" || crit4 === "deadPeople1" || crit4 === "deadPeople2" || crit4 === "hurtPeople1" || crit4 === "hurtPeople2" || crit4 === "lostPeople1" || crit4 === "lostPeople2" || crit4 === "numTech1" || crit4 === "numTech2" || crit4 === "lostTech1" || crit4 === "lostTech2"){
+								var on = Number(a[ex[i]][crit4].slice(0, a[ex[i]][crit4].indexOf('-')));
+								var tw = Number(a[ex[i]][crit4].slice(a[ex[i]][crit4].indexOf('-')+1));
+								for (var j = on; j <= tw; j += 10){
+									if ((j >= val4) && (j <= val44)){
+										break;
+									}else{
+										inn = false;
+									};
+								};
+								if (!inn){
+									ex = ex.slice(0, i).concat(ex.slice(i+1));
+									i -= 1;
+									continue;
+								};
+							}else{
+								if (!(Number(a[ex[i]][crit4]) >= val4) || !(Number(a[ex[i]][crit4]) <= val44)){
+									ex = ex.slice(0, i).concat(ex.slice(i+1));
+									i -= 1;
+									continue;
+								};
+							};
+						};
+					};
+					if (crit5.length > 0){
+						if (val55){
+							if (crit5 === "numPeople1" || crit5 === "numPeople2" || crit5 === "deadPeople1" || crit5 === "deadPeople2" || crit5 === "hurtPeople1" || crit5 === "hurtPeople2" || crit5 === "lostPeople1" || crit5 === "lostPeople2" || crit5 === "numTech1" || crit5 === "numTech2" || crit5 === "lostTech1" || crit5 === "lostTech2"){
+								var on = Number(a[ex[i]][crit5].slice(0, a[ex[i]][crit5].indexOf('-')));
+								var tw = Number(a[ex[i]][crit5].slice(a[ex[i]][crit5].indexOf('-')+1));
+								for (var j = on; j <= tw; j += 10){
+									if ((j >= val5) && (j <= val55)){
+										break;
+									}else{
+										inn = false;
+									};
+								};
+								if(!inn){
+									ex = ex.slice(0, i).concat(ex.slice(i+1));
+									i -= 1;
+									continue;
+								};
+							}else{
+								if (!(Number(a[ex[i]][crit5]) >= val5) && !(Number(a[ex[i]][crit5]) <= val55)){
+									ex = ex.slice(0, i).concat(ex.slice(i+1));
+									i -= 1;
+									continue;
+								};
+							};
+						};
+					};
+				};
+				for (var i = 0; i < print.length; i++){
+					tab += "<tr><th align='left' height='50' width='200' bgcolor='ffffd0'>" + print[i] + "</th>";
+					for (var j = 0; j < ex.length; j++){
+						if (a[ex[j]]['winer'] === a[ex[j]]['enemy1']){
+							inn = true;
+						}else{
+							inn = false;
+						};
+						if (Object.keys(a[ex[j]])[i] === "url"){
+							continue;
+						}
+						if (Object.keys(a[ex[j]])[i] === "title"){
+							tab += "<td width='150' bgcolor='ffffee'><a target='_blank' href='" + a[ex[j]]["url"] + "'><button>" + a[ex[j]][Object.keys(a[ex[j]])[i]] + "</button></a></td>";
+						} else {
+							if (inn && Object.keys(a[ex[j]])[i].indexOf('1') + 1){
+								tab += "<td class='win'>" + a[ex[j]][Object.keys(a[ex[j]])[i]] + "</td>";
+							}else if (!inn && Object.keys(a[ex[j]])[i].indexOf('2') + 1){
+								tab += "<td class='loo'>" + a[ex[j]][Object.keys(a[ex[j]])[i]] + "</td>";
+							}else{
+								tab += "<td width='150' bgcolor='ffffee'>" + a[ex[j]][Object.keys(a[ex[j]])[i]] + "</td>";
+							}
+						}
+					}
+				};
+				//Таблица вывода
+				document.write('<head><meta charset="utf-8"><title>Картотека битв 2.3</title><link rel="stylesheet" href="../style.css"></head><body><div class="heading"><div><img src="logo.png" width="90" height="90"></div><div id="header"><p>Artyzh Studio</p></div><div></div></div><a href="index2.html">Назад</a><h1> Вывод</h1><div style="overflow: auto"><table border="1" cellspacing="0" cellpadding="5">');
+				document.write('<tr><td bgcolor="ffffd0" colspan="' + (ex.length + 1) + '">Найдено - ' + ex.length + '</td></tr>');
+				document.write(tab);
+                doc.write('</table></div><footer class="bott"><p><a href="nach_ekipaj_pass_ff0000\login_he.html"><img src="../images/Foton_logo.png" width="200" height="200" alt="Логотип\Logo"></a></p><p id="by">@Designed by ArtyZH Design Studio</p></footer></body>');
+				//result.close();
+            };
+        </script>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<p id='by'>@Designed by ArtyZH Design Studio</p>
+    </body>
+</html>

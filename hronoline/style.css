@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+}
+
+h1 {
+  padding-bottom: 16px;
+  color: #070302;
+  font-family: "franklin gothic medium", bold;
+}
+
+h2 {
+  padding-bottom: 16px;
+  border-bottom: 2px solid #502500;
+  color: #070302
+}
+h3 {
+  padding-bottom: 16px;
+  border-bottom: 2px solid #502500;
+  color: #070302
+}
+h4 {
+  padding-bottom: 16px;
+  border-bottom: 2px solid #070302;
+  color: #070302
+}
+
+
+.paskagetextdownload {
+  margin-bottom: 30px;
+  font-size: 14px;
+  font-family: "comic sans ms", serif;
+  color: #181513;
+}
+.robininfotext {
+	font-size: 13px;
+	font-family: "calibri";
+	font-weight: bolder;
+	font-style: italic;
+}
+.dogovor {		color: #00000a;		font-size: 16px;		font-style: italic;	}.predist {		font-family: arial;		font-wieght: bold;		font-style: italic;		font-size: 18px;	}.sty {		font-family: arial;		font-size: 17px;	}

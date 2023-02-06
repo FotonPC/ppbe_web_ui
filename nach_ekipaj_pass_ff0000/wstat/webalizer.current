@@ -1,0 +1,1380 @@
+# Webalizer V2.21-02 Incremental Data - 11/20/2013 00:11:51
+2013 11 20 0 11 51
+5361 4687 228 58 63 167 88050644 4498 1701 0
+2 3 190 1 20
+339 287 5125276 25 253 88
+308 237 3618365 26 272 107
+281 218 3582773 19 245 97
+280 242 4414033 21 263 103
+273 241 3891762 26 247 100
+298 251 4054599 22 265 98
+274 248 3616850 22 245 101
+237 203 3740209 23 220 85
+221 206 4641765 20 215 77
+236 207 5849518 30 202 78
+279 251 5562279 28 196 71
+245 220 5101237 24 211 82
+279 232 4735843 36 230 91
+193 179 2634190 21 178 62
+288 266 3929756 20 263 82
+241 227 3604555 29 219 87
+429 369 9685128 28 235 98
+298 261 3845119 30 256 101
+359 339 6383595 31 280 110
+3 3 33792 2 3 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+225 204 4012116 205
+205 179 3333886 184
+256 226 4877823 177
+210 184 3393996 195
+396 340 10400861 214
+214 187 3429174 191
+288 253 5578723 257
+209 183 2613774 183
+245 208 3532825 213
+174 156 2248812 163
+178 162 2303601 159
+192 172 3073527 177
+162 148 2198127 149
+265 232 6780829 183
+221 189 3514282 194
+204 174 2880634 184
+193 167 2168384 167
+231 198 3726622 202
+215 186 3109596 195
+290 246 4756950 207
+195 175 2508432 180
+203 175 2731323 172
+184 161 2431755 163
+206 182 2444592 184
+0
+0
+0
+4687
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+36
+0
+0
+0
+0
+0
+0
+638
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/uploads/42034_th_1319360052.99717548584.jpg
+0 10 0 1946816 0 0
+/
+0 4291 0 68145900 1615 1461
+/js/clearbox/config/default/pic/btm_prev.gif
+0 6 0 2268 0 0
+/img/top_gradient.png
+0 8 0 1386 0 0
+/uploads/42034_1319361506.03307348708.jpeg
+0 5 0 756000 0 0
+/uploads/42034_th_1319361508.851779093904.jpg
+0 8 0 1460112 0 0
+/js/clearbox/config/default/pic/no_youtube.gif
+0 4 0 8556 0 0
+/js/clearbox/config/default/pic/s_left.png
+0 6 0 5136 0 0
+/js/clearbox/config/default/pic/no_winmedia.gif
+0 5 0 12230 0 0
+/js/clearbox/config/default/pic/btm_next.gif
+0 6 0 18282 0 0
+/js/clearbox/config/default/pic/no_winmediawmv.gif
+0 4 0 10472 0 0
+/js/clearbox/config/default/cb_config.js
+0 16 0 78834 0 0
+/uploads/42034_1319361505.03892507898.jpg
+0 21 0 791616 0 0
+/js/clearbox/config/default/pic/no_flash.gif
+0 6 0 16224 0 0
+/img/flowersdown.png
+0 8 0 1547214 0 0
+/js/clearbox/config/default/pic/close.png
+0 6 0 19872 0 0
+/js/clearbox/config/default/pic/no_winmediawav.gif
+0 5 0 13070 0 0
+/js/clearbox/config/default/pic/no_winmediampg.gif
+0 5 0 13035 0 0
+/js/clearbox/config/default/cb_style.css
+0 49 0 212910 0 0
+/js/clearbox/config/default/pic/btm_rot_r.gif
+0 5 0 2500 0 0
+/js/clearbox/config/default/pic/no_quicktime.gif
+0 5 0 9280 0 0
+/wstat/usage.png
+0 1 0 2884 0 0
+/js/clearbox/config/default/pic/pause.png
+0 6 0 2316 0 0
+/js/clearbox/config/default/pic/s_top.png
+0 6 0 2430 0 0
+/uploads/42034_th_1319361503.081604552372.jpg
+0 8 0 479232 0 0
+/js/clearbox/config/default/pic/btm_dl.gif
+0 6 0 2184 0 0
+/js/clearbox/config/default/pic/start.png
+0 6 0 19626 0 0
+/js/clearbox.js
+0 16 0 33474 0 0
+/js/clearbox/core/cb_core.js
+0 16 0 489720 0 0
+/js/clearbox/config/default/pic/no_winmediawma.gif
+0 5 0 13120 0 0
+/js/clearbox/config/default/pic/no_winmediamp3.gif
+0 5 0 12955 0 0
+/img/midflowers.png
+0 8 0 620898 0 0
+/uploads/42034_th_1319361505.03892507898.jpg
+0 9 0 168189 0 0
+/vasyatka.gif
+0 6 0 62864 0 0
+/uploads/42034_1319361508.851779093904.jpg
+0 5 0 2227209 0 0
+/js/clearbox/config/default/pic/btm_max.gif
+0 6 0 2328 0 0
+/js/clearbox/config/default/pic/prev.png
+0 6 0 5982 0 0
+/img/flowers.png
+0 8 0 3217482 0 0
+/js/clearbox/config/default/pic/s_right.png
+0 6 0 5130 0 0
+/js/clearbox/config/default/pic/blank.gif
+0 6 0 258 0 0
+/js/clearbox/config/default/pic/no_inner.gif
+0 5 0 3905 0 0
+/js/clearbox/config/default/pic/s_btm.png
+0 6 0 2424 0 0
+/js/clearbox/config/default/pic/s_btmleft.png
+0 6 0 1746 0 0
+/js/clearbox/config/default/pic/next.png
+0 6 0 6024 0 0
+/js/clearbox/config/default/pic/no_image.gif
+0 5 0 16670 0 0
+/js/clearbox/config/default/pic/btm_rot_l.gif
+0 6 0 2922 0 0
+/uploads/42034_th_1319361506.03307348708.jpeg
+0 9 0 463617 0 0
+/uploads/42034_1319360052.99717548584.jpg
+0 4 0 1452038 0 0
+/js/clearbox/config/default/pic/no_winmediaavi.gif
+0 5 0 12820 0 0
+/js/clearbox/config/default/pic/no_html.gif
+0 5 0 3885 0 0
+/js/clearbox/config/default/pic/s_topleft.png
+0 6 0 1650 0 0
+/js/clearbox/config/default/pic/s_topright.png
+0 6 0 1764 0 0
+/uploads/42034_1319361503.081604552372.jpg
+0 4 0 841876 0 0
+/js/clearbox/config/default/pic/no_iframe.gif
+0 5 0 3940 0 0
+/js/clearbox/language/en/cb_language.js
+0 16 0 10570 0 0
+/wstat/
+0 1 0 1771 1 1
+/js/clearbox/config/default/pic/s_btmright.png
+0 6 0 1812 0 0
+/img/bg.jpg
+0 8 0 1377114 0 0
+# End Of Table - urls
+# -sites- (monthly)
+85.25.110.109
+0 1 1 11205 1 1384440433
+/
+136.169.238.121
+0 1 0 2317 0 0
+-
+178.137.92.113
+0 3 3 159003 3 1383281544
+/
+54.224.55.96
+0 1 1 53001 1 1384355627
+/
+79.143.187.164
+0 6 6 318112 5 1384830626
+/
+46.165.200.48
+0 2 0 4634 1 1383919603
+-
+109.236.80.203
+0 8 0 18536 6 1384169465
+-
+66.249.66.36
+0 1 1 4530 0 0
+-
+77.51.129.146
+0 1 1 37696 0 0
+-
+91.200.13.5
+0 9 8 426325 7 1384623231
+/
+176.112.5.102
+0 1 1 37696 0 0
+-
+66.249.78.20
+0 8 5 49626 3 1384406324
+/
+46.39.35.208
+0 1 1 37696 0 0
+-
+66.249.78.28
+0 9 6 52017 3 1384402244
+/
+188.232.154.50
+0 5 0 11585 0 0
+-
+80.86.88.173
+0 1 1 11264 1 1384679864
+/
+217.79.181.76
+0 2 1 55318 1 1384399377
+/
+188.186.102.133
+0 1 1 53001 1 1383487621
+/
+80.86.88.174
+0 1 0 0 1 1383766880
+-
+66.249.78.31
+0 7 4 38421 2 1384639978
+/
+144.76.156.247
+0 4 4 212004 3 1383920900
+/
+31.133.82.34
+0 4 4 212004 4 1384511772
+/
+184.22.223.188
+0 1 0 2317 0 0
+-
+66.249.78.38
+0 6 4 36104 2 1384320574
+/
+2.133.248.159
+0 2 2 106214 2 1384850869
+/
+66.249.78.44
+0 13 8 74584 4 1384757747
+/
+64.246.165.200
+0 4 2 27044 2 1384388951
+/
+37.57.133.11
+0 8 8 424008 5 1384142912
+/
+178.154.224.114
+0 343 343 3846265 137 1384904105
+/
+37.57.133.18
+0 3 3 159109 3 1384700900
+/
+185.24.218.27
+0 3 0 6951 0 0
+-
+64.246.165.210
+0 6 3 38249 3 1384202531
+/
+66.249.78.58
+0 8 5 49626 3 1384639955
+/
+81.200.30.108
+0 12 12 2374442 1 1384089914
+/
+37.57.133.20
+0 2 2 106214 1 1384868082
+/
+66.249.78.77
+0 6 4 36104 2 1384318912
+/
+46.17.44.50
+0 4 4 212004 4 1384542392
+/
+217.69.134.79
+0 1 1 37696 0 0
+-
+66.249.78.233
+0 9 6 54215 3 1384723762
+/
+91.201.124.21
+0 1 1 11264 1 1384849267
+/
+66.249.78.238
+0 10 8 79861 2 1384520269
+/
+109.251.203.17
+0 5 5 56084 4 1384891674
+/
+178.94.210.223
+0 1 1 37696 0 0
+-
+187.62.210.249
+0 1 1 53001 1 1384561475
+/
+5.228.56.220
+0 1 1 0 1 1384492097
+/
+213.180.206.205
+0 184 184 2068151 36 1384905342
+/
+157.56.229.186
+0 2 1 13581 1 1384804110
+/
+95.153.120.83
+0 1 0 2317 0 0
+-
+46.105.97.87
+0 4 0 9268 1 1384305427
+-
+66.249.81.44
+0 2 1 13522 1 1384375124
+/
+205.159.133.73
+0 12 0 27804 3 1384323590
+-
+54.224.127.91
+0 1 1 53001 1 1384042817
+/
+217.69.135.246
+0 2 1 611331 0 0
+-
+217.69.135.247
+0 1 1 172616 0 0
+-
+217.69.135.248
+0 1 0 2317 0 0
+-
+217.69.135.249
+0 1 0 0 0 0
+-
+77.51.66.35
+0 1 0 2317 0 0
+-
+37.57.133.2
+0 9 9 477009 3 1383935547
+/
+217.69.135.250
+0 2 1 611331 0 0
+-
+217.69.135.251
+0 2 0 0 0 0
+-
+217.69.135.252
+0 2 1 275799 0 0
+-
+95.128.164.124
+0 4 0 9268 3 1384349947
+/
+54.221.95.149
+0 1 1 53001 1 1384042952
+/
+84.95.244.11
+0 1 1 53001 1 1384573674
+/
+46.147.92.164
+0 6 6 67230 6 1384246034
+/
+188.138.110.107
+0 2 2 22410 1 1384440416
+/
+37.140.141.14
+0 4 0 9268 0 0
+-
+46.236.128.155
+0 2 2 106002 1 1384152381
+/
+178.151.252.201
+0 2 0 4634 0 0
+-
+78.30.221.96
+0 5 5 265005 2 1384309363
+/
+93.74.51.248
+0 4 4 212004 3 1383687606
+/
+38.100.21.62
+0 2 2 106002 2 1384162456
+/
+95.189.122.253
+0 1 1 37696 0 0
+-
+38.100.21.63
+0 1 1 53001 1 1383829353
+/
+38.100.21.68
+0 1 1 53001 1 1384311971
+/
+38.100.21.69
+0 1 1 53001 1 1384234068
+/
+188.186.116.203
+0 2 2 106214 1 1384719358
+/
+95.78.39.155
+0 1 1 11205 1 1383415206
+/
+178.216.75.5
+0 2 0 4634 0 0
+-
+90.188.109.179
+0 1 1 53001 1 1383972837
+/
+199.30.25.165
+0 1 1 2391 0 0
+-
+109.205.249.84
+0 1 1 37696 0 0
+-
+188.232.146.9
+0 2 0 4634 0 0
+-
+5.61.32.166
+0 10 10 154141 7 1384902057
+/
+95.158.61.77
+0 1 1 37696 0 0
+-
+23.20.23.204
+0 1 1 53001 1 1383987153
+/
+5.255.210.93
+0 1414 1414 15856437 306 1384906311
+/
+89.189.191.23
+0 2 1 55318 1 1383438879
+/
+94.24.138.15
+0 3 3 117478 1 1384899889
+/
+109.236.84.144
+0 76 18 1088404 31 1383954104
+-
+144.76.95.231
+0 2 1 13522 1 1383731726
+/
+94.244.157.180
+0 2 0 4634 1 1384018790
+-
+109.162.10.28
+0 3 0 6951 0 0
+-
+64.246.161.30
+0 2 1 13522 1 1384360502
+/
+87.229.190.46
+0 3 0 6951 0 0
+-
+85.25.95.50
+0 1 0 2317 1 1384005018
+-
+46.158.139.229
+0 2 0 4634 0 0
+-
+23.20.103.57
+0 1 1 53001 1 1383990854
+/
+198.211.107.231
+0 1 1 53001 1 1384096043
+/
+89.208.17.22
+0 5 5 265535 3 1384860448
+/
+217.115.42.170
+0 1 0 2317 0 0
+-
+64.246.161.42
+0 4 2 27044 2 1384111548
+/
+91.221.109.101
+0 127 12 401387 26 1384800346
+/
+92.255.237.6
+0 5 3 0 2 1384901914
+/
+65.55.215.239
+0 6 6 59492 1 1384240787
+/
+2.60.2.91
+0 2 0 4634 0 0
+-
+93.159.230.28
+0 9 9 100858 1 1384206976
+/
+65.55.213.38
+0 6 6 59551 1 1384843615
+/
+190.201.104.107
+0 1 1 53001 1 1384571775
+/
+46.147.85.243
+0 1 1 11205 1 1383909796
+/
+82.145.211.102
+0 3 3 113088 0 0
+-
+66.249.75.42
+0 1 0 0 0 0
+-
+5.61.42.174
+0 7 4 218955 2 1384520196
+-
+208.115.113.92
+0 2 1 55318 1 1384004453
+/
+109.194.117.168
+0 6 0 13902 0 0
+-
+91.215.188.101
+0 19 19 1007019 12 1384213754
+/
+37.200.65.208
+0 1 1 53001 1 1383394323
+/
+89.169.210.215
+0 290 242 9549549 4 1384889825
+/
+178.169.44.193
+0 1 1 37696 0 0
+-
+217.118.83.176
+0 57 50 1908196 1 1384176671
+/
+217.69.143.57
+0 1 0 2317 0 0
+-
+216.145.11.94
+0 2 1 13522 1 1383306698
+/
+217.69.143.58
+0 1 0 2317 0 0
+-
+108.170.22.211
+0 1 0 2317 0 0
+-
+46.158.103.204
+0 10 2 124538 1 1383760091
+/
+212.117.184.185
+0 18 18 954018 13 1383630299
+/
+65.49.23.115
+0 2 0 4634 0 0
+-
+46.105.59.74
+0 1 1 0 1 1383928889
+/
+178.89.224.33
+0 10 4 223589 6 1383650805
+-
+65.55.215.37
+0 2 1 172616 0 0
+-
+80.77.95.46
+0 9 9 477539 7 1384707621
+/
+193.169.234.5
+0 26 13 175786 12 1383552993
+/
+77.87.207.235
+0 5 5 265005 5 1383578673
+/
+192.241.138.9
+0 1 1 53001 1 1384098405
+/
+50.17.140.218
+0 1 1 53001 1 1384358947
+/
+109.184.168.103
+0 1 1 37696 0 0
+-
+178.89.216.6
+0 6 4 216638 2 1383726861
+/
+199.189.87.130
+0 1 1 11264 1 1384744967
+/
+82.146.57.62
+0 12 0 27804 0 0
+-
+65.55.55.230
+0 3 3 10916 0 0
+-
+199.30.20.113
+0 4 2 486704 0 0
+-
+46.165.201.42
+0 1 0 2317 0 0
+-
+199.189.87.151
+0 1 1 11205 1 1384660431
+/
+91.219.237.59
+0 1 0 2317 0 0
+-
+89.169.50.76
+0 2 0 4634 0 0
+-
+212.33.255.53
+0 2 2 106002 2 1383800286
+/
+178.150.227.92
+0 2 0 4634 0 0
+-
+65.122.191.66
+0 1 0 2317 0 0
+-
+64.246.165.50
+0 2 1 13522 1 1384360088
+/
+91.211.211.82
+0 1 1 37696 0 0
+-
+192.241.141.221
+0 1 1 53001 1 1384053687
+/
+66.220.7.244
+0 1 1 53001 1 1384628293
+/
+195.54.213.174
+0 50 25 338404 23 1384896978
+/
+95.107.55.140
+0 1 1 53001 1 1384539180
+/
+37.9.150.192
+0 2 0 4634 2 1384321181
+/
+66.249.78.107
+0 5 3 31633 2 1384761026
+/
+178.140.172.164
+0 33 33 1749987 32 1384778333
+/
+157.55.33.42
+0 2 0 2317 1 1383363881
+/
+37.115.13.193
+0 2 2 22528 2 1384905990
+/
+91.214.131.112
+0 2 2 106002 1 1384203656
+/
+46.147.67.113
+0 3 3 33792 2 1384900875
+/
+178.216.69.0
+0 1 1 37696 0 0
+-
+62.149.1.75
+0 2 2 22410 2 1383577660
+/
+66.249.78.124
+0 8 4 40738 2 1384561895
+/
+66.249.78.129
+0 7 4 38421 2 1384273134
+/
+5.9.193.46
+0 9 9 881068 4 1384342813
+/
+46.227.184.129
+0 1 1 37696 0 0
+-
+195.239.178.205
+0 130 130 6892250 64 1384842041
+/
+64.246.165.160
+0 2 1 13522 1 1384105386
+/
+193.104.118.8
+0 1 1 37696 0 0
+-
+109.167.227.87
+0 2 0 4634 0 0
+-
+64.120.216.110
+0 15 0 34755 6 1384090836
+-
+66.249.78.159
+0 5 4 33787 2 1384272959
+/
+66.249.66.127
+0 1 0 2317 0 0
+-
+157.55.35.36
+0 3 2 48502 1 1383783232
+/
+64.246.165.170
+0 2 1 13522 1 1383302160
+/
+66.249.78.161
+0 3 2 18052 1 1384127809
+/
+93.74.161.160
+0 16 10 544124 5 1384881946
+/
+66.249.78.172
+0 10 8 79920 2 1384760907
+/
+95.108.244.251
+0 348 218 2720478 99 1384859747
+/
+83.149.9.205
+0 1 1 37696 0 0
+-
+54.205.208.39
+0 2 2 106002 1 1384362439
+/
+66.249.78.181
+0 6 4 36104 2 1384639049
+/
+66.249.78.187
+0 13 7 733059 2 1384639037
+/
+50.16.70.240
+0 1 1 53001 1 1383955864
+/
+199.58.86.211
+0 4 2 27044 2 1383663452
+/
+54.237.85.197
+0 1 1 53001 1 1384356317
+/
+46.28.69.78
+0 2 2 106002 2 1384390581
+/
+107.21.192.112
+0 1 1 53001 1 1384363458
+/
+95.108.129.207
+0 737 737 8264516 324 1384905023
+/
+95.181.179.171
+0 3 0 6951 0 0
+-
+178.255.87.242
+0 2 2 22469 2 1384814463
+/
+37.9.53.129
+0 21 0 48657 13 1383633443
+-
+5.9.195.95
+0 4 4 212216 4 1384837693
+/
+46.165.205.90
+0 3 3 159003 2 1383943811
+/
+85.21.245.106
+0 5 5 56025 5 1384185820
+/
+178.89.224.182
+0 2 2 106002 2 1383450263
+/
+213.137.237.242
+0 1 1 53001 1 1383777858
+/
+131.253.24.104
+0 6 6 59492 1 1383873535
+/
+213.137.237.247
+0 1 1 53001 1 1384146300
+/
+192.241.136.186
+0 1 1 53001 1 1384096902
+/
+92.54.105.17
+0 12 12 636436 10 1384694220
+/
+213.180.206.197
+0 731 731 8197168 228 1384904279
+/
+80.87.204.248
+0 8 8 424008 8 1383895073
+/
+37.252.125.169
+0 1 0 2317 0 0
+-
+62.245.46.204
+0 40 40 2120040 14 1383960164
+/
+198.199.81.24
+0 2 2 106002 2 1384105723
+/
+176.214.233.225
+0 1 1 53001 1 1383422432
+/
+54.204.161.48
+0 1 1 53001 1 1384041597
+/
+157.55.33.115
+0 2 0 2317 1 1383470129
+/
+176.212.57.222
+0 2 0 4634 0 0
+-
+91.200.13.36
+0 6 6 318006 4 1384475115
+/
+195.64.155.203
+0 2 1 55424 1 1384795087
+/
+83.215.239.153
+0 1 0 2317 0 0
+-
+217.69.133.169
+0 6 3 40566 3 1384005310
+/
+93.158.155.137
+0 10 10 530116 10 1384787319
+/
+193.105.154.231
+0 9 0 20853 8 1384026017
+-
+157.55.33.146
+0 2 0 2317 1 1383837494
+/
+2.60.162.112
+0 1 0 2317 0 0
+-
+176.194.96.162
+0 1 1 53001 1 1384232325
+/
+69.58.178.57
+0 2 1 55424 1 1384775580
+/
+69.58.178.59
+0 5 3 163849 3 1384837918
+/
+84.240.30.56
+0 6 6 318006 5 1383868031
+/
+185.17.150.172
+0 1 0 2317 0 0
+-
+90.156.238.35
+0 12 12 318006 5 1384314303
+/
+37.9.147.112
+0 1 0 2317 1 1384355396
+/
+94.24.137.108
+0 1 1 53107 1 1384869649
+/
+92.126.216.156
+0 1 0 2317 1 1384708237
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+5.255.210.93
+0 2 2 22528 1 1384906311
+/
+37.115.13.193
+0 1 1 11264 1 1384905990
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://programming-lang.com/
+0 4
+- (Direct Request)
+0 4736
+http://google.ru
+0 2
+http://nasha-izba.ru/
+0 5
+http://www.nasha-izba.ru/
+0 5
+http://funpromo.ru
+0 1
+GATOR-TAIL.SU/index.php?do=register
+0 1
+http://vikimarket.com/
+0 23
+http://forex-success.ru/
+0 1
+http://rulibs.com/ru_zar/sf/index.html?10
+0 4
+http://www.gatortail.ru/
+0 5
+http://whois.domaintools.com/gator-tail.su
+0 1
+http://mmm-fraud.com/
+0 9
+http://whois.domaintools.com/xn----8sbcxewo0l.xn--p1ai
+0 2
+http://www.yandex.ru/
+0 1
+XN----7SBABE9AG0B2G.XN--P1AI/index.php?do=register
+0 1
+http://www.ppbe.ru/wstat/index.html
+0 1
+MOYA-IZBA.RU/index.php?do=register
+0 1
+http://xn----7sbabe9ag0b2g.xn--p1ai/
+0 4
+http://www.flmotion.com/page-russkaya-izba-foto
+0 6
+file:///C:/Documents and Settings/Admin/\xd0\xa0\xd0\xb0\xd0\xb1\xd0\xbe\xd1\x87\xd0\xb8\xd0\xb9 \xd1\x81\xd1\x82\xd0\xbe\xd0\xbb/rus-3.html
+0 5
+http://yandex.ru/clck/jsredir?from=yandex.ru;yandsearch;web;;&text=Гатор Таил&uuid=&state=AiuY0DBWFJ4ePaEse6rgeAjgs2pI3DW99KUdgowt9XsltfjMh8My-8EokLxcMXwC70mJA2m5rAtqRvANvxU80gYAy9z-94jyJSjAXOOuSX104zytOSwgllb8gRim0UxCklz7IDVT70cJvD-uNJIsPUYLL6lY
+0 1
+XN----8SBCXEWO0L.XN--P1AI/index.php?do=register
+0 1
+http://www.moya-izba.ru/
+0 1
+http://whois.domaintools.com/gatortail.ru
+0 1
+GATORTAIL.SU/index.php?do=register
+0 1
+http://whois.domaintools.com/gatortail.su
+0 1
+http://yandex.ru
+0 3
+http://uznaipravdu.org/viewtopic.php?f=31&t=650
+0 4
+http://artip.ru
+0 4
+http://whois.domaintools.com/nasha-izba.ru
+0 1
+http://whois.domaintools.com/ppbe.ru
+0 1
+http://gatortail.ru/
+0 6
+http://ppbe.ru/
+0 289
+http://forum.nasha-izba.ru/index.php
+0 1
+http://xn----8sbcxewo0l.xn--p1ai/
+0 4
+http://whois.domaintools.com/moya-izba.ru
+0 1
+http://www.gatortail.su/
+0 5
+http://xn-----6kcca0ce9abf3ajf5av.xn--p1ai/
+0 4
+http://rumagic.com/_flv/
+0 4
+http://forum.moya-izba.ru/index.php
+0 1
+http://rumagic.com/html/avtor/warren/
+0 4
+http://forum.moya-izba.ru/
+0 2
+http://flmotion.com/page-russkaya-izba-foto
+0 9
+http://beldibi.biz
+0 4
+http://moya-izba.ru/
+0 7
+http://whois.domaintools.com/xn----7sbabe9ag0b2g.xn--p1ai
+0 2
+http://mawords.com/moya-izba.ru
+0 1
+XN-----6KCCA0CE9ABF3AJF5AV.XN--P1AI/index.php?do=register
+0 1
+http://smbb.ws/index.php?forums/12/
+0 4
+http://bskltd.ru
+0 1
+http://bing.com
+0 2
+http://whois.domaintools.com/xn-----6kcca0ce9abf3ajf5av.xn--p1ai
+0 2
+http://avtoru.org/index.php?forums/21/
+0 4
+http://forum.nasha-izba.ru/
+0 2
+http://rusfoto.net/
+0 4
+http://gator-tail.su/
+0 62
+http://rulibs.com/ru_zar/sci_linguistic/
+0 4
+NASHA-IZBA.RU/index.php?do=register
+0 1
+http://gatortail.su/
+0 10
+http://google.com
+0 2
+http://xn--80aaaai3cwbjak3e.xn--p1ai
+0 1
+http://www.avtoru.org/index.php?forums/3/
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+0 188
+Nokia300/5.0 (07.44) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots TEST)
+0 343
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 24
+Refbot/1.0 (+http://bskltd.ru)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:16.0) Gecko/20100101 Firefox/16.0
+0 1
+Opera/9.64 (Windows NT 5.1; U; en) Presto/2.1.1
+0 1
+Mozilla/5.0 (compatible; YandexDirect/2.0; Dyatel; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:11.0) Gecko/20100101 Firefox/11.0
+0 2
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Img/2.0; +http://go.mail.ru/help/robots)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 12
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.2.15 Version/10.10
+0 10
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 347
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.50
+0 1
+Googlebot-Image/1.0
+0 3
+Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.289 Version/12.01
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) Survey/2.3 (fr.
+0 2
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.10
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) Russian CMS rating crawler (itrack.ru/research/cmsrate, rating@itrack.ru)
+0 119
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+0 1
+Mozilla/4.0 (Compatible; Windows NT 5.1; MSIE 6.0) (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.507
+0 40
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YE
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0
+0 13
+Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.12) Gecko/20101027 Ubuntu/10.04 (lucid) Firefox/3.6.12 YB/5.1.3
+0 1
+Mozilla/5.0 (compatible; openstat.ru/Bot)
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Sa
+0 1
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5970); ru) Presto/2.7.62 Version/11.00
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) Runet-Research-Crawler (itrack.ru/research/cmsrate; rating@itrack.ru)
+0 8
+Mozila/4.0 (compatible; MSIE 6.0; Windows NT 5.1;)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 5
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5998)) Presto/2.12.388 Version/12.11
+0 1
+Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+0 1
+Opera/9.80 (Windows NT 6.1; Win64; x64; Edition Yx) Presto/2.12.388 Version/12.10
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:18.0) Gecko/20100101 Firefox/18.0
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.40607;  .NET CLR 3.0.30729;  .NET 
+0 6
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 4
+Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+0 43
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+0 1
+Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420  (KHTML, like Gecko) Version/3.0 Mobile/1A543a Safari/419.3
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 57
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+0 1
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 6
+python-requests/2.0.1 CPython/2.7.5+ Linux/3.11.0-12-generic
+0 3
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.5.24 Version/10.53
+0 2
+Refbot/1.0 (+http://funpromo.ru)
+0 1
+Mozilla/5.0
+0 1
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5976)) Presto/2.12.388 Version/12.11
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4325;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648)
+0 6
+Mozilla/5.0 (Linux; U; Android 3.0; en-us; Xoom Build/HRI39) AppleWebKit/525.10  (KHTML, like Gecko) Version/3.0.4 Mobile Saf
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:16.0) Gecko/20100101 Firefox/16.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 135
+Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1.0 Safari/537.11
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/5.0 (compatible; U; AnyEvent-HTTP/2.15; +http://software.schmorp.de/pkg/AnyEvent)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 40
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+0 2
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.289 Version/12.00
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.40607)
+0 1
+Opera/9.80 (Windows NT 5.1; U; MRA 8.0 (build 5784); ru) Presto/2.10.289 Version/12.02
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+0 86
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.5a) Gecko/20030718
+0 9
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 6.0; rv:2.0) Gecko/20100101 Firefox/4.0 Opera 12.14
+0 2
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)
+0 1
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 8.0 (build 5784)) Presto/2.12.388 Version/12.10
+0 1
+Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.11
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+0 1
+Mozilla/5.0 (compatible; statdom.ru/Bot; +http://statdom.ru/bot.html)
+0 50
+Opera/9.80 (Windows NT 5.1; Edition Ukraine Local) Presto/2.12.388 Version/12.10
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+0 1
+Opera/9.80 (Windows NT 5.1; U; YB/3.5.1; ru) Presto/2.10.229 Version/11.64
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
+0 16
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+0 1
+Mozilla/0.91 Beta (Windows)
+0 1
+Opera/9.80 (Windows NT 6.1; U; YB/3.5.1; ru) Presto/2.6.30 Version/10.63
+0 1
+python-requests/0.12.1
+0 9
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon1)
+0 737
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Ubuntu Chromium/23.0.1271.97 Chrome/23.0.1271.97 Safar
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Rogers Hi.Speed Internet; (R1 1.3))
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/11.04 Chromium/14.0.825.0 Chrome/14.0.825.0 Safari
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon2)
+0 731
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)
+0 6
+Opera/9.80 (Windows NT 6.2; WOW64; MRA 8.0 (build 5784)) Presto/2.12.388 Version/12.10
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x4.90)
+0 8
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 5.1; rv:23.0) Gecko/20100101 Firefox/23.0
+0 12
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon3)
+0 736
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; NP07; NP07)
+0 1
+Refbot/1.0 (+http://beldibi.biz)
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:25.0) Gecko/20100101 Firefox/25.0
+0 2
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.64
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0
+0 1
+iTunes/4.2 (Macintosh; U; PPC Mac OS X 10.2)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 2
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots)
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0 [xUSAx]
+0 1
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5831)) Presto/2.12.388 Version/12.10
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:7.0) Gecko/20100101 Firefox/7.0
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 9
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; MRA 6.0 (build 6005); User-agent: Mozilla/4.0 (compat
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots mon3v2)
+0 676
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+0 1
+Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+0 3
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.8.131 Version/11.10
+0 34
+Refbot/1.0 (+http://artip.ru)
+0 4
+C-T bot
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 9
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)
+0 2
+Mozilla/5.0 (compatible; Nigma.ru/3.0; crawler@nigma.ru)
+0 130
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 53
+Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+0 2
+ScreenerBot Crawler Beta 2.0 (+http://www.ScreenerBot.com)
+0 4
+Opera/9.80 (Series 60; Opera Mini/6.5.27309/32.1125; U; ru) Presto/2.8.119 Version/11.10
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+0 14
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36 OPR/17.0.1241.5
+0 51
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.04506.648)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.22) Gecko/20110902 Firefox/3.6.22
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:2.2a1pre) Gecko/20100101 Firefox/4.2a1pre
+0 1
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+0 1
+Mozilla/3.0 (compatible; Indy Library)
+0 33
+Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0 Paros/3.2.13
+0 29
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/15.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.96 Safari/537.4
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 5
+Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/17.0 Firefox/17.0
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 1.5; en-us; sdk Build/CUPCAKE) AppleWebkit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobile Saf
+0 1
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots DEV)
+0 184
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+0 9
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54 [en]
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.4; http://www.majestic12.co.uk/bot.php?+)
+0 8
+Refbot/1.0 (+http://xn--80aaaai3cwbjak3e.xn--p1ai)
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.12) Gecko/20080219 Firefox/2.0.0.12 Navigator/9.0.0.6
+0 1
+Mozilla/5.0 (compatible; YandexDirect/3.0; +http://yandex.com/bots)
+0 1
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.61
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

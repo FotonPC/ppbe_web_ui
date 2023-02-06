@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="discription" content="Спроси Бена о чем угодно.">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<link rel="stylesheet" href="style.css">
+		<title>Secret Ben chat</title>
+	</head>
+	<body>
+		<nav id="nav">
+			<a href="../index.html">◁<img id="ben" src="ben.png"></a>
+		</nav>
+		<div id="chat"></div>
+		<div id="input">
+			<input onsubmit="send()"><img src="send.png" onclick="send()">
+		</div>
+		<script>
+			var ans = ['Yes', 'No', 'Ahaha!', 'Burp...'];
+			var num = -1;
+
+			function send() {
+				let text = document.getElementsByTagName('input').item(0).value;
+				if (text.length > 1) {
+					num++;
+					$("#chat").append("<p class='message exp' id='m" + num + "'>" + text + "</p>");
+					document.getElementsByTagName('input').item(0).value = '';
+					document.getElementsByTagName('input').item(0).focus();
+					document.getElementById('chat').scrollTop = document.getElementById('chat').scrollHeight;
+					num++;
+					setTimeout(() => {
+						$("#chat").append("<p class='message imp' id='m" + num + "'>" + ans[Math.floor(Math.random() * 4)] + "</p>");
+						document.getElementById('chat').scrollTop = document.getElementById('chat').scrollHeight;
+					}, 2000);
+				}
+			}
+		</script>
+	</body>
+</html>

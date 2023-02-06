@@ -1,0 +1,27 @@
+h1 {
+	color: #00000f;
+	font-family: arial black;
+	font-size: 23px;
+	font-wieght: bold;
+}
+p {
+	color: black;
+	font-size: 15px;
+	font-family: verdana;
+}
+.dogovor {
+	color: #00000a;
+	font-size: 16px;
+	font-style: italic;
+	font-family: arial;
+}
+.predist {
+	font-family: arial;
+	font-wieght: bold;
+	font-style: italic;
+	font-size: 18px;
+}
+.sty {
+	font-family: arial;
+	font-size: 17px;
+}

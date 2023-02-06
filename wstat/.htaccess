@@ -1,0 +1,3 @@
+RewriteEngine   on
+DirectoryIndex index.html
+AddDefaultCharset koi8-r
