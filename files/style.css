@@ -97,6 +97,18 @@ iframe {
 	animation-name: sizedown;
 	width: 30vw
 }
+.presentation embed {
+	width: 1000px;
+	height: 1000px;
+}
+.apps2 div {
+	border-radius: 1em;
+	margin: 1%;
+	padding: 10px;
+	display: flex;
+	width: 70vw;
+	background: hotpink;
+}
 
 .apps div:hover {
 	animation-duration: 0.5s;
